@@ -79,7 +79,6 @@ p {
   background-color: lightGray;
 }
 .post-date {
-  color: #D2D2D2;
 
   font-size: 14px;
   font-weight: bold;
@@ -87,6 +86,14 @@ p {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+.post-date:nth-child(odd){
+   color: lightGray;
+}
+
+.post-date:nth-child(even){
+   color: white;
+}
+
 .about{
   text-align: center;
 }
