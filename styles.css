@@ -87,7 +87,7 @@ p {
   letter-spacing: 0.1em;
 }
 .post-date:nth-child(odd){
-   color: #d3d3d3;
+   color: black;
 }
 
 .post-date:nth-child(even){
