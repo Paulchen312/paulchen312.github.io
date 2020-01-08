@@ -86,11 +86,11 @@ p {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
-.post-date:nth-child(odd){
+.post-container .post-date:nth-child(odd){
    color: black;
 }
 
-.post-date:nth-child(even){
+post-container .post-date:nth-child(even){
    color: white;
 }
 
