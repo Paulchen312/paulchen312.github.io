@@ -86,7 +86,7 @@ p {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
-.post-date{
+.post-date:nth-child(odd){
    color: black;
 }
 
