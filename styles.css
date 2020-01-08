@@ -108,6 +108,6 @@ p {
   display: inline-block;
   vertical-align: top;
 }
-.column:firstchild{
+.column:first-child{
 padding-left: 25px;
 }
