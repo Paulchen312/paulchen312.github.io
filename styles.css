@@ -38,10 +38,12 @@ p {
 
   font-size: 20px;
   font-weight: bold;
+  padding-left: 25px;
 }
 #header-nav {
   display: block;
   float: right;
+  padding-right: 25px;
 }
 #header-nav li {
   display: inline;
@@ -101,4 +103,7 @@ p {
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+}
+.column:firstchild{
+padding-left: 25px;
 }
